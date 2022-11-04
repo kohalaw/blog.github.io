@@ -24,5 +24,5 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 <hr/>
 
 #### RECOMMENDED READING
-[LINK TO ARTICLE]()
+[Heres another article you should read]()
 ###### by Author - DATE
