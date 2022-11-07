@@ -47,16 +47,16 @@ Description of picture goes here
 		* EV/EBITDA
 		* EV/Sales etc. 
 <br>
+OK, so thats alot to get through. As you can see there's a signficant amount of information needed to perform fundamental analysis of a single company.  But what if you're going to evaluate all companies within the sector?  This could take a while.  But let's take this piece by piece.
 <br>
-OK, so thats alot to get through. As you can see there's a signficant amount of information needed to perform fundamental analysis of a single company.  But what if you're going to evaluate all companies within the sector?  That could take a while.  But let's take this piece by piece.
 
-First off we have **Industry Analysis,** according to [MarketResearch.com](https://www.marketresearch.com/) the sector I'm looking for is a sub section of consumer goods.  And, could fall into one of these sub sectors:
-1. Apparel
-2. Consumer Goods & Retailing Company Reports
-3. Luxury Goods
-4. Reatiling
-
-Let's stick will the [Apparel section](https://www.marketresearch.com/Consumer-Goods-c1596/Consumer-Goods-Retailing-c80/Apparel-c612/) for right now
+### Industry Analysis
+So... tools readily avialble to my consumers are limited.  [MarketResearch.com](https://www.marketresearch.com/) wants like $3K for a single report.  Certianly a barrier to entry.  
+<br>
+But [statisa](https://www.statista.com/markets/415/topic/466/apparel-shoes/#overview) does have some free content.  Here are come **Global Stats:**
+* $1.5T Revenue from Apparel Market
+* China is the Leading Exporter of Apparel 
+* Asia is the top footwear-consuming region
 
 <hr/>
 
